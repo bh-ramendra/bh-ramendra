@@ -23,5 +23,5 @@
 <br/>
 
 [![Twitter: bh_ramendra](https://img.shields.io/twitter/follow/bh_ramendra?style=social)](https://twitter.com/bh_ramendra)
-[![Linkedin: ramendra bharadwaj](https://img.shields.io/badge/-Ramendra Bh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)](https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)
-[![GitHub bh-ramendra](https://img.shields.io/github/followers/bh_ramendra?label=follow&style=social)](https://github.com/bh-ramendra)
+[![Linkedin: Ramendra bharadwaj](https://img.shields.io/badge/-Ramendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)](https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)
+[![GitHub Ramendra](https://img.shields.io/github/followers/bh-ramendra?label=Ramendra&style=social)](https://github.com/bh-ramendra)

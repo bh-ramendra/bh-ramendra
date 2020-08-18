@@ -1,5 +1,5 @@
 
-### Hello, I'm <a href="https://bh-ramendra.github.io/" target="_blank">Ramendra Bharadwaj</a>👋
+### Hello, I'm <a href="https://bh-ramendra.github.io/" target="_blank">Ramendra Bharadwaj</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b">
   <img align="left" alt="Ramendra 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,13 +27,16 @@
 [![GitHub Ramendra](https://img.shields.io/github/followers/bh-ramendra?label=Ramendra&style=social)](https://github.com/bh-ramendra)
 
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+
+
 
 <a href="https://github.com/bh-ramendra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh-ramendra&theme=Ambiance&hide_langs_below=1" />

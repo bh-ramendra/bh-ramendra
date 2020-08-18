@@ -35,7 +35,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
+---
+## 📝 GITHUB STATS
 
+<div>
+ <img align="right" alt="Ramendra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bh-ramendra&&show_icons=true&theme=radical" />
+<img alt="Ramendra's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs?username=bh-ramendra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</div>
 
 
 

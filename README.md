@@ -1,46 +1,54 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Hello, I'm <a href="https://bh-ramendra.github.io/" target="_blank">Ramendra Bharadwaj</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">Hi, I'm Ramendra Bharadwaj</h1>
+<h3 align="center">I'm a passionate Full Stack Data science from India.</h3>
 
-<a href="https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b">
-  <img align="left" alt="Ramendra 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/bh-ramendra">
-  <img align="left" alt="Ramendra 's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://twitter.com/bh_ramendra">
-  <img align="left" alt="Ramendra 's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/bh_ramendra">
-  <img align="left" alt="Ramendra's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/bh_ramendra/">
-  <img align="left" alt="Ramendra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ramendra.kumar.7771/">
-  <img align="left" alt="Ramendra's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
+## 🙋‍♂️ About me
+
+
+- 🌱 I’m currently learning **Data Science.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **bharadwaj.ramendra1@gmail.com**
+
+- ⚡ Fun fact **I play games and go for Social working often.**
+
+
+<h1 align='center'> Streak <h1/>
+
+<p align="center">
+    <a href="https://github.com/bh-ramendra/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ramendra bharadwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bh-ramendra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<h1 align='center'> 📊 My Github Stats  <h1/>
+
+  <br/>
+    <a align="center" href="https://github.com/bh-ramendra/github-readme-stats"><img alt="Ramendra bharadwaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bh-ramendra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/bh-ramendra/github-readme-stats"><img alt="Ramendra bharadwaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh-ramendra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+
+
 <br/>
 <br/>
 
-[![Twitter: bh_ramendra](https://img.shields.io/twitter/follow/bh_ramendra?style=social)](https://twitter.com/bh_ramendra)
-[![Linkedin: Ramendra bharadwaj](https://img.shields.io/badge/-Ramendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)](https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)
-[![GitHub Ramendra](https://img.shields.io/github/followers/bh-ramendra?label=Ramendra&style=social)](https://github.com/bh-ramendra)
+<a href="https://github.com/bh-ramendra/github-readme-activity-graph"><img alt="Ramendra bharadwaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bh-ramendra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/bh-ramendra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-## Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-
----
-## 📝 GitHub Status
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bh-ramendra&hide=Vue)](https://github.com/bh-ramendra/github-readme-stats) 
-&nbsp; &nbsp; &nbsp;
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=bh-ramendra)](https://github.com/bh-ramendra/github-contribution-stats/) 
+</p>
 
 
 

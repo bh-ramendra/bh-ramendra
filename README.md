@@ -7,13 +7,17 @@
 ## 🙋‍♂️ About me
 
 
-- 🌱 I’m currently learning **Data Science.**
+-🎓 Currently pursuing my Master’s in Artificial Intelligence at IIT Patna.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-💼 Have 3.5 years of professional experience working with PwC AC US and Trellance US, specializing in data-driven solutions.**
 
-- 📫 How to reach me **bharadwaj.ramendra1@gmail.com**
+-🌱 Continuously learning and exploring Data Science & AI applications.**
 
-- ⚡ Fun fact **I play games and go for Social working often.**
+-👯 Open to collaborating on Open Source projects and innovative research.**
+
+-📫 Reach me at bharadwaj.ramendra1@gmail.com**
+
+-⚡ Fun fact: I enjoy gaming and often participate in social work activities.**
 
 
 <h1 align='center'> Streak <h1/>

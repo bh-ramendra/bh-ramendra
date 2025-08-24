@@ -7,17 +7,17 @@
 ## 🙋‍♂️ About me
 
 
--🎓 Currently pursuing my Master’s in Artificial Intelligence at IIT Patna.**
+🎓 Currently pursuing my Master’s in Artificial Intelligence at IIT Patna.
 
--💼 Have 3.5 years of professional experience working with PwC AC US and Trellance US, specializing in data-driven solutions.**
+💼 Have 3.5 years of professional experience working with PwC AC US and Trellance US, specializing in data-driven solutions.
 
--🌱 Continuously learning and exploring Data Science & AI applications.**
+🌱 Continuously learning and exploring Data Science & AI applications.
 
--👯 Open to collaborating on Open Source projects and innovative research.**
+👯 Open to collaborating on Open Source projects and innovative research.
 
--📫 Reach me at bharadwaj.ramendra1@gmail.com**
+📫 Reach me at bharadwaj.ramendra1@gmail.com
 
--⚡ Fun fact: I enjoy gaming and often participate in social work activities.**
+⚡ Fun fact: I enjoy gaming and often participate in social work activities.
 
 
 <h1 align='center'> Streak <h1/>

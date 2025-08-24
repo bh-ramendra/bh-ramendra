@@ -68,9 +68,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bh-ramendra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:bharadwaj.ramendra1@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-  <a href="https://kaggle.com/"><img src="https://img.icons8.com/windows/48/1A1A1A/kaggle.png"/></a>
-  <a href="https://medium.com/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+  <a href="https://www.kaggle.com/bhramendra"><img src="https://img.icons8.com/windows/48/FFFFFF/kaggle.png"/></a>
+  <a href="https://bh-ramendra.github.io/"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </p>
 
 ---
